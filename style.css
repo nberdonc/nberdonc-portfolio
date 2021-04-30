@@ -13,11 +13,11 @@ body{
 }
 
 .icon i {
-    color: white;
+    color: rgb(56, 109, 104);
 }
 
 .icon i:hover {
-    color: rgb(154, 180, 175);
+    color: rgb(232, 241, 240);
 }
 
 header { 
@@ -36,7 +36,7 @@ header {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding: 1.1em 1em;
+    padding: 1em 0em 1em 0em;
 }
 
 .navbar a{
@@ -127,7 +127,7 @@ header {
 .white-box{
     width: 100%;
     max-width: 40em;
-    min-width: 15em;
+    min-width: 18em;
     max-height: 40em;
     min-height: 15em;
     background-color: rgb(154, 180, 175);
@@ -136,13 +136,34 @@ header {
     box-shadow: -3px 3px  rgb(80, 95, 92);;       
 }
 
+.project-img{
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
+}
+
 .white-box h3{
     margin-left: 1em;
     border-bottom: 1px solid black;  
 }
 
+.project-img{
+
+}
+
 .project-tile{
-    margin-left: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+.a-tags-link{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    border: 1px solid;
+    padding: 0.5em 1em;
+    margin-right: 1em;
 }
 
 .footer-box{
@@ -175,7 +196,7 @@ header {
     text-decoration-color: rgb(46, 45, 45);
 }
 
-@media(max-width: 850px){
+@media(max-width: 1000px){
     .projects-grid{
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -183,7 +204,7 @@ header {
     }
 }
 
-@media(max-width: 600px){
+@media(max-width: 650px){
     .projects-grid{
         display: grid;
         grid-template-columns: 1fr;
