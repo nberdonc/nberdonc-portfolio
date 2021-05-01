@@ -130,25 +130,22 @@ header {
     min-width: 18em;
     max-height: 40em;
     min-height: 15em;
-    background-color: rgb(154, 180, 175);
-    border: 1px solid black;
-    margin-bottom: 1em;
-    box-shadow: -3px 3px  rgb(80, 95, 92);;       
+    background-color: rgb(80, 95, 92); 
+    border-radius: 7px;   
 }
 
-.project-img{
-    height: calc(100% - 6.8rem);
-    width: 100%;
-    object-fit: cover;
+.imgbox {
+    height:100%;
+    width:100%;
+    overflow:hidden;
+}
+.project-img {
+    max-width:100%;
+    max-height: 100%;
 }
 
 .white-box h3{
     margin-left: 1em;
-    border-bottom: 1px solid black;  
-}
-
-.project-img{
-
 }
 
 .project-tile{
