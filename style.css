@@ -121,7 +121,6 @@ header {
 
 .work-div{
     padding: 8em 10%;
-    height: 100%;
     background-color: rgb(46, 45, 45);
     color: white;
 }
@@ -149,9 +148,9 @@ header {
 }
 
 .project-img {
-    height: calc(100% - 6.8rem);
     width: 100%;
     object-fit: cover;
+    max-height: 290px;
 }
 
 .white-box h3{
@@ -214,6 +213,11 @@ header {
         grid-template-columns: 1fr 1fr;
         gap: 2em;
     }
+    .project-img {
+        width: 100%;
+        object-fit: cover;
+        max-height: 290px;
+    }
 }
 @media(max-width: 650px){
     .projects-grid{
@@ -235,14 +239,24 @@ header {
         align-items: center;
         margin-bottom: 0.8em;
     }
+    .project-img {
+        width: 100%;
+        object-fit: cover;
+        max-height: 260px;
+    }
 }
 @media(max-width: 400px){
-.click-link{
-    color: white;
-    text-decoration-line: underline;
-    padding: 1em 0em 3em 0em;
-    margin-right: 2em;
-    display: flex;
-    flex-direction: column;
-}
+    .click-link{
+        color: white;
+        text-decoration-line: underline;
+        padding: 1em 0em 3em 0em;
+        margin-right: 2em;
+        display: flex;
+        flex-direction: column;
+    }
+    .project-img {
+        width: 100%;
+        object-fit: cover;
+        max-height: 260px;
+    }
 }
