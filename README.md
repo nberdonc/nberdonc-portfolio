@@ -4,7 +4,7 @@ PROJECTS:
 
 -BCS HOMEPAGE, DOCUMENTATION PAGE, SURVEY PAGE, TRIBUTE: Created with HTML & CSS. Responsive page using FLEX BOX and GRID.
 
--E-COMMERCE PAGE: Created with REACT.JS for the UI apliying FLEX BOX and GRID.
+-E-COMMERCE PAGE: Created with REACT.JS for the UI appliying FLEX BOX and GRID.
 Using react-router-dom for the navigation bar, react-stripe-js as the secured payment platform and Axios to make asynchronous HTTP requests to REST endpoints and perform CRUD operations.
 Deployed in Heroku.
 
