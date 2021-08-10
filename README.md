@@ -5,6 +5,7 @@ PROJECTS:
 -BCS HOMEPAGE, DOCUMENTATION PAGE, SURVEY PAGE, TRIBUTE, ROCK-PAPER-SCISSORS: Created with HTML & CSS. Responsive page using FLEX BOX and GRID.
 
 Deployed links:
+
 https://nberdonc.github.io/bcs-homepage/
 
 https://nberdonc.github.io/tribute-page/
