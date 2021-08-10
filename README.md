@@ -6,9 +6,13 @@ PROJECTS:
 
 Deployed links:
 https://nberdonc.github.io/bcs-homepage/
+
 https://nberdonc.github.io/tribute-page/
+
 https://nberdonc.github.io/documentation-page/
+
 https://nberdonc.github.io/survey-page/
+
 https://nberdonc.github.io/rock-paper-scissors/
 
 -E-COMMERCE PAGE: Created with REACT.JS for the UI appliying FLEX BOX and GRID.
