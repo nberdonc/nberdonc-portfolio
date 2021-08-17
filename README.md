@@ -4,7 +4,9 @@ Responsive PORTFOLIO page created with HTML & CSS. Check it out! https://nberdon
 
 ## PROJECTS:
 
-### -BCS HOMEPAGE, DOCUMENTATION PAGE, SURVEY PAGE, TRIBUTE, ROCK-PAPER-SCISSORS: Created with HTML & CSS. Responsive page using FLEX  BOX and GRID.
+### -BCS HOMEPAGE, DOCUMENTATION PAGE, SURVEY PAGE, TRIBUTE, ROCK-PAPER-SCISSORS: 
+
+Created with HTML & CSS. Responsive page using FLEX  BOX and GRID.
 
 **Deployed links:**
 
