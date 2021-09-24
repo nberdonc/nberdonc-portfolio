@@ -196,8 +196,8 @@ header {
     margin: auto
 }
 .white-box{
-    height: 25em;
-    width: 25em;
+    height: 26em;
+    width: 26em;
     background-color: rgb(80, 95, 92); 
     border-radius: 1px; 
     margin: auto;  
@@ -256,7 +256,8 @@ header {
         margin: auto;
         max-width: 900px;
     }
-}@media(max-width: 1400px){
+}
+@media(max-width: 1400px){
     .about-text{
         line-height: 1.8;
         font-size: 17px;
@@ -264,7 +265,7 @@ header {
         max-width: 800px;
     }
 }
-@media(max-width: 1435px){
+@media(max-width: 1300px){
     .about-img-row{
       display: inline;
     }
@@ -277,8 +278,15 @@ header {
         width: 100%;
         object-fit: cover;
     }
+    .white-box{
+        height: 26em;
+        width: 20em;
+        background-color: rgb(80, 95, 92); 
+        border-radius: 1px; 
+        margin: auto;  
+    }
 }
-@media(max-width: 980px){
+@media(max-width: 890px){
     .icon {
         position: fixed; 
         bottom: 1em; 
