@@ -197,9 +197,7 @@ header {
 }
 .white-box{
     height: 26em;
-    min-height: 20em;
-    min-width: 20em;
-    max-width: 26em;
+    width: 26em;
     background-color: rgb(80, 95, 92); 
     border-radius: 1px; 
     margin: auto;  
@@ -266,7 +264,7 @@ header {
         max-width: 800px;
     }
 }
-@media(max-width: 1300px){
+@media(max-width: 1435px){
     .about-img-row{
       display: inline;
     }
@@ -280,7 +278,7 @@ header {
         object-fit: cover;
     }
 }
-@media(max-width: 890px){
+@media(max-width: 980px){
     .icon {
         position: fixed; 
         bottom: 1em; 

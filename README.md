@@ -20,6 +20,8 @@ https://nberdonc.github.io/survey-page/
 
 https://nberdonc.github.io/rock-paper-scissors/
 
+https://nberdonc.github.io/battleship-react/ (Just for PC)
+
 ### -E-COMMERCE PAGE: 
 
 Created with REACT.JS for the UI appliying FLEX BOX and GRID.
