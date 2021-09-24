@@ -19,9 +19,6 @@ https://nberdonc.github.io/documentation-page/
 https://nberdonc.github.io/survey-page/
 
 https://nberdonc.github.io/rock-paper-scissors/
-
-https://nberdonc.github.io/battleship-react/ (Just for PC)
-
 ### -E-COMMERCE PAGE: 
 
 Created with REACT.JS for the UI appliying FLEX BOX and GRID.
@@ -42,3 +39,7 @@ Created with REACT NATIVE as the application framework and Axios to make asynchr
 **Note:** As this is a mobile app, it is recommended to use a small screen or mobile
 view screen & press reload, in order to see it properly here: https://nberdonc.github.io/mobile-app-react-native/
 
+### -BATTLESHIPGAME: 
+Created with REACT as the application framework.
+
+**Deployed in GitHub Pages for you to play in your PC:** https://nberdonc.github.io/battleship-react/
